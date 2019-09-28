@@ -6,3 +6,7 @@
 !/map/*
 !/res/*
 !/sound/*
+!*.aps
+!*.rc
+!*.vcxproj
+!*.filters
